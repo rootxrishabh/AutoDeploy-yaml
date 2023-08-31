@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: AutoDeploy
-        image: autodeployapp/autodeploy:14.0
+        image: autodeployapp/autodeploy:18.0
         ports:
         - containerPort: 8000
 ---
